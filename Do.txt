@@ -1,4 +1,6 @@
 bubble sort with pointer 
 
 N-gram
-¤¤https://dojang.io/mod/page/view.php?id=400
+ã„´https://dojang.io/mod/page/view.php?id=400
+
+git í™œìš© 
