@@ -1,0 +1,4 @@
+3항 연산자
+1.result = (Condition) and (Case_True) or (Case_False) // Case_True일 경우 실행하는 구문값이 0일 경우 Case_False 구문을 실행해버림. 그래서 아래를 권장함. 
+2.result = (Case_True) if(Condition) else (Case_False)
+

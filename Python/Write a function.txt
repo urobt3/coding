@@ -1,0 +1,12 @@
+leap day Condition
+4로 나뉘어 떨어짐. 단 100으로 나뉘어떨어지는 경우는 제외한다. 단, 여기서 400으로 나뉘어지면 leap day가 맞다.
+
+def is_leap(year):
+    leap=False
+    leap = True if(year%400==0) else False if(year%100==0) else True if(year%4==0) else False
+    
+    # Write your logic here
+    
+    return leap
+
+year = int(input())

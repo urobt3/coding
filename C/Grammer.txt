@@ -1,0 +1,8 @@
+http://www.cplusplus.com/reference/cstdio/scanf/
+
+scanf("%[^\n]%*c", s);
+%[^\n] // \n이 나올때까지만 스캔을 계속한다
+%*c // 해당 위치에 오는 문자는 버려라. 
+
+
+
